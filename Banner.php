@@ -9,7 +9,7 @@ App::uses('AppModel', 'Model');
 class Banner extends AppModel {
 
 /**
- * Display field kak
+ * Display field kak kaka
  *
  * @var string kaka kaka kaka kaka
  */
