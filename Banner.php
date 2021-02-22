@@ -11,7 +11,7 @@ class Banner extends AppModel {
 /**
  * Display field
  *
- * @var string kaka kaka
+ * @var string kaka kaka kaka kaka
  */
 	public $displayField = 'name';
 
